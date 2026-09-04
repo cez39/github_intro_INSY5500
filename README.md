@@ -1,1 +1,5 @@
-# github_intro_INSY5500
+# Github Intro INSY5500
+What I will learn:
+- Terminals Commands
+- Git Commands
+- Much more
